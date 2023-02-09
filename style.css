@@ -1,0 +1,58 @@
+#grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    padding: 50px;
+    
+}
+#img1{
+    grid-area: auto;
+    width: 500px;
+    height: 250px;
+    
+}
+#img2{
+    grid-area: auto;
+    width: 500px;
+    height: 250px;
+}
+#img3{
+    grid-area: auto;
+    width: 500px;
+    height:250px
+}
+#img4{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+}
+#img5{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+
+}
+#img6{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+
+}
+#img7{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+
+}
+#img8{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+
+}
+#img9{
+    grid-area: auto;
+    width:500px;
+    height:250px;
+    
+}
